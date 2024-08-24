@@ -1,6 +1,6 @@
 # E-commerce-Descriptive-Sales-Analysis-Power-BI-Project
 
-Project Online Link: [Project file link: ](https://app.powerbi.com/view?r=eyJrIjoiOWRhOGI5NTYtN2YxYy00NzdlLTk3NTctZDEwNTMzNDM5Mjg4IiwidCI6Ijk4YzlhMDgxLWUzYjktNGM2ZS05ZDJiLTVkNDcyNTE2YzBlYSIsImMiOjEwfQ%3D%3D&pageName=91594d592d1eae8b813a\)
+Project Online Link: https://app.powerbi.com/view?r=eyJrIjoiOWRhOGI5NTYtN2YxYy00NzdlLTk3NTctZDEwNTMzNDM5Mjg4IiwidCI6Ijk4YzlhMDgxLWUzYjktNGM2ZS05ZDJiLTVkNDcyNTE2YzBlYSIsImMiOjEwfQ%3D%3D&pageName=91594d592d1eae8b813a
 
 
 This is a descriptive analysis of E-commerce sales data of 4 years (2012-2015) in Power BI  with necessary visualizations.  The analysis report is divided into 4 different segments:
